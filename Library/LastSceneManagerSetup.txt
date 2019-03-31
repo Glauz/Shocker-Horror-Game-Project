@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/Gecko Enemy Test.unity
+- path: Assets/Scene/Village.unity
   isLoaded: 1
   isActive: 1
